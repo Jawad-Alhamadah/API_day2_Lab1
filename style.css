@@ -1,3 +1,7 @@
+body{
+    height: 100vh;
+    background-color: rgb(190, 213, 213);
+}
 .card {
     width: 15em !important;
     margin: 1.5em;
