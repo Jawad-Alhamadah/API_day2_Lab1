@@ -26,8 +26,8 @@
           let rating = document.createElement("h4")
           let img = document.createElement("img")
           card.classList.add("card","justify-content-center" ,"gx-4")
-          cardBody.classList.add("card-body")
-          img.classList.add("card-img-top","align-self-center")
+          cardBody.classList.add("card-body","mb-2")
+          img.classList.add("card-img-top","align-self-center","mt-4","card-border","mb-3")
 
           title.classList.add("title")
 
